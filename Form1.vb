@@ -1,6 +1,6 @@
 ﻿'Project: ComputeApplication
-' Author: Your Name
-' Date: Today's Date
+' Author: Whitney 
+' Date: 27/6/2025
 
 Option Explicit On
 Option Strict On
